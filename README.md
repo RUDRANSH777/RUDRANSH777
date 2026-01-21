@@ -36,8 +36,8 @@ I enjoy building **practical, real-world solutions** using **AI/ML, Computer Vis
 ## 📫 Connect
 
 - GitHub: https://github.com/RUDRANSH777  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: your-email@example.com  
+- LinkedIn:https://www.linkedin.com/in/rudransh-srivastava-b4a454258/
+- Email: your-Rudranshm7777@gmail.com  
 
 ---
 

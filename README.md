@@ -8,7 +8,7 @@
 💻 Aspiring Software Engineer | AI/ML Enthusiast  
 📍 India  
 
-I build **practical, real-world software solutions** using **AI/ML, Computer Vision, and Web Technologies**, with strong focus on **clean architecture, performance, and problem-solving**.
+I build **practical, real-world software solutions** using **AI/ML, Computer Vision, and Web Technologies**, with strong focus on **clean architecture, scalability, and problem-solving**.
 
 ---
 
@@ -67,8 +67,8 @@ Responsive static website with clean UI/UX
 
 # 🏆 Experience
 
-- **Team Leader — National Service Scheme (NSS)**  
-- Built a **Disaster Alert System** during a 48-hour hackathon  
+- Team Leader — National Service Scheme (NSS)  
+- Built Disaster Alert System during 48-hour hackathon  
 - Led planning, coordination, and technical implementation  
 
 ---
@@ -87,8 +87,6 @@ Responsive static website with clean UI/UX
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/>
 </div>
 
 ---
@@ -113,7 +111,7 @@ Responsive static website with clean UI/UX
 # 🧠 Coding Profiles
 
 ### 🟡 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rudransh777?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/Rudransh777/)
 
 ### 🔵 Codeforces
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME)

@@ -92,6 +92,8 @@ Responsive static website
 ### 🟡 LeetCode
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Rudransh777/)
 
+### 🔵 Codeforces
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME)
 
 ---
 

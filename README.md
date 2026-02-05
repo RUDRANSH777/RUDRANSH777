@@ -24,24 +24,24 @@ I build **practical, real-world solutions** using **AI/ML, Computer Vision, and 
 
 ### 💻 Programming & Core CS
 Python • C • C++ • JavaScript • SQL  
-Data Structures & Algorithms • OOP • Problem Solving • System Design  
+Data Structures & Algorithms • OOP • System Design • Problem Solving  
 
-### 🤖 AI / Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 Machine Learning • Deep Learning • Computer Vision  
 OpenCV • dlib • scikit-learn • NumPy • Pandas  
 
 ### 👁️ Computer Vision
-YOLO Object Detection • Face/Eye Detection • Image Processing  
-Real-time Video Analysis • Landmark Tracking  
+YOLO Object Detection • Face/Eye Tracking • Image Processing  
+Real-time Video Analysis • Landmark Detection  
 
 ### 🌐 Web Development
-HTML • CSS • JavaScript • Streamlit • REST APIs • Responsive Design  
+HTML • CSS • JavaScript • Streamlit • REST APIs • Responsive UI  
 
 ### ⚙️ Tools
-Git • GitHub • Linux • VS Code • Jupyter • Google Colab  
+Git • GitHub • Linux • VS Code • Jupyter Notebook • Google Colab  
 
 ### 🛡️ Engineering Practices
-Authentication • IAM Basics • Debugging • Testing • Secure Coding • Version Control  
+Authentication • IAM Basics • Debugging • Testing • Version Control • Secure Coding  
 
 ### 🚀 Soft Skills
 Leadership • Communication • Teamwork • Hackathons • Project Management  
@@ -50,18 +50,18 @@ Leadership • Communication • Teamwork • Hackathons • Project Management
 
 # 🚀 Featured Projects
 
-### 🚗 Driver Drowsiness Detection  
+### 🚗 Driver Drowsiness Detection
 Real-time fatigue detection using computer vision  
 🔗 https://github.com/RUDRANSH777/driver-drowsiness-detection
 
-### 🤖 AI Interview Assistant  
-Resume-based smart interview question generator
+### 🤖 AI Interview Assistant
+Resume-based smart interview assistant with AI feedback  
 
-### 📝 Markdown → HTML Transpiler  
-Custom Markdown parser → structured HTML
+### 📝 Markdown → HTML Transpiler
+Custom Markdown parser to structured HTML  
 
-### 🌐 Tribute Web Page  
-Responsive static website
+### 🌐 Tribute Web Page
+Responsive static website  
 
 ---
 
@@ -86,14 +86,17 @@ Responsive static website
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDRANSH777&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
-# 🔥 Streak Stats
+---
+
+# 🔥 Streak Stats (FIXED)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RUDRANSH777&theme=radical&hide_border=true"/>
 </p>
 
+---
 
-# 🐍 Contribution Snake (auto-updating)
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>

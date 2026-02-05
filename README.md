@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+👋;I'm+Rudransh+Mohan+Srivastava;AI+%7C+ML+%7C+Computer+Vision+Explorer;Building+Real-World+Solutions+🚀;&center=true&size=28&color=00F7FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+👋;  I'm+Rudransh+Mohan+Srivastava;AI+%7C+ML+%7C+Computer+Vision+Explorer;Building+Real-World+Solutions+🚀;&center=true&size=28&color=00F7FF">
 </a>
 
 # 👋 Hi, I’m Rudransh Mohan Srivastava

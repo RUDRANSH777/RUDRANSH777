@@ -82,19 +82,16 @@ Responsive static website
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RUDRANSH777&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDRANSH777&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RUDRANSH777&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDRANSH777&layout=compact&theme=radical&hide_border=true"/>
 </p>
-
----
 
 # 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RUDRANSH777&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RUDRANSH777&theme=radical&hide_border=true"/>
 </p>
 
----
 
 # 🐍 Contribution Snake (auto-updating)
 

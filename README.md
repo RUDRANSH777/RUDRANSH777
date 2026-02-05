@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I build **practical, real-world solutions** using **AI/ML, Computer Vision, and Web Technologies**, focusing on **clean code, scalability, and problem-solving**.
+I build **practical, real-world solutions** using **AI/ML, Computer Vision, and Web Technologies**, with strong focus on **clean code, scalability, and problem-solving**.
 
 ---
 
@@ -37,7 +37,7 @@ Real-time Video Analysis • Landmark Detection
 ### 🌐 Web Development
 HTML • CSS • JavaScript • Streamlit • REST APIs • Responsive UI  
 
-### ⚙️ Tools
+### ⚙️ Tools & Platforms
 Git • GitHub • Linux • VS Code • Jupyter Notebook • Google Colab  
 
 ### 🛡️ Engineering Practices
@@ -58,10 +58,18 @@ Real-time fatigue detection using computer vision
 Resume-based smart interview assistant with AI feedback  
 
 ### 📝 Markdown → HTML Transpiler
-Custom Markdown parser to structured HTML  
+Custom Markdown parser → structured HTML  
 
 ### 🌐 Tribute Web Page
 Responsive static website  
+
+---
+
+# 🏆 Experience
+
+- Team Leader — National Service Scheme (NSS)  
+- Built Disaster Alert System in a 48-hour hackathon  
+- Led planning, coordination, and development  
 
 ---
 
@@ -79,38 +87,11 @@ Responsive static website
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RUDRANSH777&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDRANSH777&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
-# 🔥 Streak Stats (FIXED)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RUDRANSH777&theme=radical&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 # 🧠 Coding Profiles
 
 ### 🟡 LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Rudransh777?theme=dark&ext=heatmap)](https://leetcode.com/u/Rudransh777/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Rudransh777/)
 
-### 🔵 Codeforces
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME)
 
 ---
 
@@ -119,12 +100,6 @@ Responsive static website
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/RUDRANSH777)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudransh-srivastava-b4a454258/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rudranshm7777@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RUDRANSH777&color=blue"/>
-</p>
 
 ---
 

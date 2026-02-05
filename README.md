@@ -1,80 +1,99 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+👋;I'm+Rudransh+Mohan+Srivastava;AI+%7C+ML+%7C+Computer+Vision+Explorer;Building+Solutions+That+Matter+🚀;&center=true&size=28&color=00F7FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+👋;I'm+Rudransh+Mohan+Srivastava;AI+%7C+ML+%7C+Computer+Vision+Explorer;Building+Real-World+Solutions+🚀;&center=true&size=28&color=00F7FF">
 </a>
 
 # 👋 Hi, I’m Rudransh Mohan Srivastava
 
 🎓 Computer Science & Engineering Student  
-💻 Aspiring Software Engineer | AI & ML Enthusiast  
+💻 Aspiring Software Engineer | AI/ML Enthusiast  
 📍 India  
 
-I enjoy building **practical, real-world solutions** using **AI/ML, Computer Vision, and Web Technologies**, with a strong focus on **clean code, scalability, and problem-solving**.
+I build **practical, real-world software solutions** using **AI/ML, Computer Vision, and Web Technologies**, with strong focus on **clean architecture, performance, and problem-solving**.
 
 ---
 
-## 🧑‍💻 Skills
+# 🧑‍💻 Skills
 
-### 💻 Languages
-Python • C/C++ • JavaScript  
+### 💻 Programming & Core CS
+Python • C • C++ • JavaScript • SQL  
+Data Structures & Algorithms • Object-Oriented Programming (OOP) • Problem Solving • System Design Basics  
 
-### 🤖 AI / ML
-Computer Vision (OpenCV, dlib) • ML Fundamentals • NumPy • Pandas  
+### 🤖 Artificial Intelligence & Machine Learning
+Machine Learning • Deep Learning Fundamentals • Computer Vision • Model Training • Model Evaluation  
+Supervised Learning • Classification • Regression • Feature Engineering  
+OpenCV • dlib • scikit-learn • NumPy • Pandas  
 
-### 🌐 Web
+### 👁️ Computer Vision & Real-Time Systems
+YOLO Object Detection • Face/Eye Detection • Facial Landmark Tracking  
+Image Processing • Real-time Video Analysis • Camera Integration • Alert Systems  
+
+### 🌐 Web Development
 HTML • CSS • JavaScript • Streamlit  
+Frontend Development • Responsive Design • REST APIs • Backend Integration  
 
-### ⚙️ Tools
-Git • GitHub • VS Code  
+### 📊 Data & Analytics
+Data Cleaning • Data Preprocessing • Exploratory Data Analysis (EDA)  
+Data Visualization • CSV/JSON Handling • Automation Scripts  
+
+### ⚙️ Tools & Platforms
+Git • GitHub • Linux • VS Code • Jupyter Notebook • Google Colab  
+
+### 🛡️ Security & Engineering Practices
+Identity & Access Management (IAM) Basics • Authentication & Authorization  
+Secure Coding • Debugging • Testing • Version Control • Code Reviews  
+
+### 🚀 Soft Skills
+Team Leadership • Communication • Technical Documentation  
+Hackathons • Event Coordination • Project Management  
 
 ---
 
-## 📌 Projects
+# 🚀 Featured Projects
 
 ### 🚗 Driver Drowsiness Detection
-Real-time computer vision system to detect driver fatigue and trigger alerts.
+Real-time computer vision system that detects driver fatigue and triggers alerts  
+🔗 https://github.com/RUDRANSH777/driver-drowsiness-detection
 
 ### 🤖 AI Interview Assistant
-Resume-based interview question generator with feedback using AI.
+Resume-based interview question generator with intelligent feedback
 
 ### 📝 Markdown → HTML Transpiler
-Custom parser that converts Markdown into structured HTML.
+Custom Markdown parser that converts structured text to HTML
 
 ### 🌐 Tribute Web Page
-Responsive static website built with clean UI/UX.
+Responsive static website with clean UI/UX
 
 ---
 
-## 🏆 Experience
+# 🏆 Experience
 
-- Team Leader — National Service Scheme (NSS)  
+- **Team Leader — National Service Scheme (NSS)**  
 - Built a **Disaster Alert System** during a 48-hour hackathon  
-- Led coordination, planning & technical execution  
+- Led planning, coordination, and technical implementation  
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/>
 </div>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RUDRANSH777&show_icons=true&theme=radical" height="165"/>
@@ -83,7 +102,25 @@ Responsive static website built with clean UI/UX.
 
 ---
 
-## 📫 Connect With Me
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🧠 Coding Profiles
+
+### 🟡 LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo)
+
+### 🔵 Codeforces
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME)
+
+---
+
+# 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/RUDRANSH777)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudransh-srivastava-b4a454258/)
@@ -91,9 +128,8 @@ Responsive static website built with clean UI/UX.
 
 ---
 
-## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=RUDRANSH777&color=blue)
 
 ---
 
-> ⭐ *Building solutions that matter.*
+> ⭐ Building solutions that matter.

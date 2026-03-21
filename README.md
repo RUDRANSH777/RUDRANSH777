@@ -1,104 +1,83 @@
-# 💫 About Me
+# 👋 Hi, I'm Rudransh Srivastava
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+there!+👋;I'm+Rudransh+Mohan+Srivastava;AI+%7C+ML+%7C+Computer+Vision+Developer;Building+Scalable+Tech+Solutions+🚀" />
-</p>
-
-<h1 align="center">👋 Rudransh Mohan Srivastava</h1>
-
-<p align="center">
-🎓 B.Tech CSE (2026) <br/>
-💻 Software Engineer | AI/ML Developer <br/>
-📍 India
-</p>
+🎓 B.Tech CSE (2026)  
+💻 Aspiring Software Engineer | AI/ML Developer  
+📍 India  
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
-I am a **Software Engineer & AI/ML Enthusiast** focused on building **real-world, scalable applications** using:
-
-- 🤖 Artificial Intelligence & Machine Learning  
-- 👁️ Computer Vision (YOLO, OpenCV)  
-- 🌐 Backend & Web Development  
-
-💡 I enjoy solving problems, optimizing systems, and building impactful tech products.
+- Build **real-world AI/ML applications**
+- Work on **Computer Vision (YOLO, OpenCV)**
+- Develop **scalable backend systems & APIs**
+- Strong focus on **DSA + problem solving**
 
 ---
 
-## 🧑‍💻 Tech Skills
+## 🏆 Key Highlights
 
-### 💻 Programming
-`Python` `C++` `JavaScript` `SQL`
-
-### ⚙️ Core CS
-Data Structures & Algorithms • OOP • System Design • Problem Solving
-
-### 🤖 AI / ML
-Machine Learning • Deep Learning • Computer Vision  
-OpenCV • NumPy • Pandas • scikit-learn
-
-### 👁️ Computer Vision
-YOLO • Face/Eye Detection • Real-Time Video Processing
-
-### 🌐 Development
-HTML • CSS • JavaScript • REST APIs • Streamlit
-
-### 🛠️ Tools
-Git • GitHub • Linux • VS Code • Jupyter • Google Colab
+✔ Built real-time **Driver Drowsiness Detection system**  
+✔ Developed **AI Interview Assistant using LLM concepts**  
+✔ Experience with **YOLO, OpenCV, ML pipelines**  
+✔ Solved problems on **LeetCode**  
+✔ Led team in **hackathon project (Disaster Alert System)**  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🚗 Driver Drowsiness Detection
-Real-time fatigue detection system using Computer Vision  
-🔗 https://github.com/RUDRANSH777/driver-drowsiness-detection
-
-### 🤖 AI Interview Assistant
-Smart AI system that generates interview questions based on resume
-
-### 📝 Markdown → HTML Transpiler
-Custom parser converting Markdown into structured HTML
-
-### 🌐 Tribute Web Page
-Responsive frontend project with clean UI
+- Real-time fatigue detection using Computer Vision  
+- Tech: Python, OpenCV, dlib  
+🔗 https://github.com/RUDRANSH777/driver-drowsiness-detection  
 
 ---
 
-## 🏆 Experience
+### 🤖 AI Interview Assistant
+- Resume-based intelligent interview system  
+- Generates questions + feedback  
+- Built using AI/ML concepts  
 
-- 👨‍💼 Team Leader — National Service Scheme (NSS)  
-- ⚡ Built Disaster Alert System in 48-hour Hackathon  
-- 🧠 Led development, coordination, and execution  
+---
+
+### 📝 Markdown → HTML Transpiler
+- Built custom parser from scratch  
+- Demonstrates strong understanding of logic & parsing  
+
+---
+
+## 🧑‍💻 Tech Stack
+
+**Languages:**  
+Python • C++ • JavaScript • SQL  
+
+**AI/ML:**  
+Machine Learning • Deep Learning • OpenCV • NumPy • Pandas  
+
+**Development:**  
+REST APIs • HTML • CSS • Streamlit  
+
+**Tools:**  
+Git • GitHub • Linux • VS Code • Colab  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudransh777&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudransh777&show_icons=true&theme=tokyonight" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Rudransh777&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudransh777&layout=compact&theme=tokyonight" />
-</p>
+---
+
+## 📫 Let's Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/rudransh-srivastava-b4a454258/  
+💻 GitHub: https://github.com/RUDRANSH777  
+📧 Email: rudranshm7777@gmail.com  
 
 ---
 
-## 🧠 Coding Profiles
-
-🔗 LeetCode: https://leetcode.com/u/Rudransh777/
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/rudransh-srivastava-b4a454258/  
-- 💻 GitHub: https://github.com/RUDRANSH777  
-- 📧 Email: rudranshm7777@gmail.com  
-
----
-
-<h3 align="center">⭐ Building scalable solutions with AI & Software Engineering.</h3>
+⭐ *Actively looking for Internship / SDE / AI-ML opportunities*

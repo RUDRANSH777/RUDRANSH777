@@ -1,105 +1,24 @@
-<!-- ================= HEADER ================= -->
+# 💫 About Me:
+<!-- ================= HEADER ================= --><br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+there!+👋;I'm+Rudransh+Mohan+Srivastava;AI+%7C+ML+%7C+Computer+Vision+Explorer;Building+Real-World+Solutions+🚀" /><br></p><br><br><h1 align="center">👋 Rudransh Mohan Srivastava</h1><br><br><p align="center"><br>🎓 Computer Science & Engineering Student <br/><br>💻 Aspiring Software Engineer | AI/ML Enthusiast <br/><br>📍 India<br></p><br><br>---<br><br>## 🚀 About Me<br><br>I build **practical, real-world solutions** using **AI/ML, Computer Vision, and Web Technologies**, with strong focus on **clean code, scalability, and problem-solving**.<br><br>---<br><br># 🧑‍💻 Skills<br><br>### 💻 Programming & Core CS<br>Python • C • C++ • JavaScript • SQL  <br>Data Structures & Algorithms • OOP • System Design • Problem Solving  <br><br>### 🤖 Artificial Intelligence & Machine Learning<br>Machine Learning • Deep Learning • Computer Vision  <br>OpenCV • dlib • scikit-learn • NumPy • Pandas  <br><br>### 👁️ Computer Vision<br>YOLO Object Detection • Face/Eye Tracking • Image Processing  <br>Real-time Video Analysis • Landmark Detection  <br><br>### 🌐 Web Development<br>HTML • CSS • JavaScript • Streamlit • REST APIs • Responsive UI  <br><br>### ⚙️ Tools & Platforms<br>Git • GitHub • Linux • VS Code • Jupyter Notebook • Google Colab  <br><br>### 🛡️ Engineering Practices<br>Authentication • IAM Basics • Debugging • Testing • Version Control • Secure Coding  <br><br>### 🚀 Soft Skills<br>Leadership • Communication • Teamwork • Hackathons • Project Management  <br><br>---<br><br># 🚀 Featured Projects<br><br>### 🚗 Driver Drowsiness Detection<br>Real-time fatigue detection using computer vision  <br>🔗 https://github.com/RUDRANSH777/driver-drowsiness-detection<br><br>### 🤖 AI Interview Assistant<br>Resume-based smart interview assistant with AI feedback  <br><br>### 📝 Markdown → HTML Transpiler<br>Custom Markdown parser → structured HTML  <br><br>### 🌐 Tribute Web Page<br>Responsive static website  <br><br>---<br><br># 🏆 Experience<br><br>- Team Leader — National Service Scheme (NSS)  <br>- Built Disaster Alert System in a 48-hour hackathon  <br>- Led planning, coordination, and development  <br><br>---<br><br># 🛠️ Tech Stack<br><br><p><br>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/><br>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/><br>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/><br>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/><br>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/><br>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/><br>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/><br></p><br><br>---<br><br># 🧠 Coding Profiles<br><br>### 🟡 LeetCode<br>[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Rudransh777/)<br><br>---<br><br># 📫 Connect With Me<br><br>[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/RUDRANSH777)  <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudransh-srivastava-b4a454258/)  <br>[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rudranshm7777@gmail.com)<br><br>---<br><br><h3 align="center">⭐ Building solutions that matter.</h3><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+there!+👋;I'm+Rudransh+Mohan+Srivastava;AI+%7C+ML+%7C+Computer+Vision+Explorer;Building+Real-World+Solutions+🚀" />
-</p>
 
-<h1 align="center">👋 Rudransh Mohan Srivastava</h1>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rudransh-srivastava-b4a454258/) 
 
-<p align="center">
-🎓 Computer Science & Engineering Student <br/>
-💻 Aspiring Software Engineer | AI/ML Enthusiast <br/>
-📍 India
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rudransh777&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rudransh777&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudransh777&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rudransh777&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🚀 About Me
-
-I build **practical, real-world solutions** using **AI/ML, Computer Vision, and Web Technologies**, with strong focus on **clean code, scalability, and problem-solving**.
-
----
-
-# 🧑‍💻 Skills
-
-### 💻 Programming & Core CS
-Python • C • C++ • JavaScript • SQL  
-Data Structures & Algorithms • OOP • System Design • Problem Solving  
-
-### 🤖 Artificial Intelligence & Machine Learning
-Machine Learning • Deep Learning • Computer Vision  
-OpenCV • dlib • scikit-learn • NumPy • Pandas  
-
-### 👁️ Computer Vision
-YOLO Object Detection • Face/Eye Tracking • Image Processing  
-Real-time Video Analysis • Landmark Detection  
-
-### 🌐 Web Development
-HTML • CSS • JavaScript • Streamlit • REST APIs • Responsive UI  
-
-### ⚙️ Tools & Platforms
-Git • GitHub • Linux • VS Code • Jupyter Notebook • Google Colab  
-
-### 🛡️ Engineering Practices
-Authentication • IAM Basics • Debugging • Testing • Version Control • Secure Coding  
-
-### 🚀 Soft Skills
-Leadership • Communication • Teamwork • Hackathons • Project Management  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rudransh777&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Rudransh777&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🚀 Featured Projects
-
-### 🚗 Driver Drowsiness Detection
-Real-time fatigue detection using computer vision  
-🔗 https://github.com/RUDRANSH777/driver-drowsiness-detection
-
-### 🤖 AI Interview Assistant
-Resume-based smart interview assistant with AI feedback  
-
-### 📝 Markdown → HTML Transpiler
-Custom Markdown parser → structured HTML  
-
-### 🌐 Tribute Web Page
-Responsive static website  
-
----
-
-# 🏆 Experience
-
-- Team Leader — National Service Scheme (NSS)  
-- Built Disaster Alert System in a 48-hour hackathon  
-- Led planning, coordination, and development  
-
----
-
-# 🛠️ Tech Stack
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
-</p>
-
----
-
-# 🧠 Coding Profiles
-
-### 🟡 LeetCode
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Rudransh777/)
-
----
-
-# 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/RUDRANSH777)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudransh-srivastava-b4a454258/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rudranshm7777@gmail.com)
-
----
-
-<h3 align="center">⭐ Building solutions that matter.</h3>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

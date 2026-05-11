@@ -75,15 +75,13 @@ Real-time disaster alert platform developed under time pressure during a hackath
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudransh777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rudransh777&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudransh777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Rudransh777&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudransh777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudransh777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&langs_count=8" height="160"/>
 </div>
-
----
 
 ## Currently Working On
 
